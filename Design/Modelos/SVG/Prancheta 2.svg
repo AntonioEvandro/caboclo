@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Personagem" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 640">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="290.4" cy="231.11" rx="70.63" ry="155.16"/>
+</svg>
