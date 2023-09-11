@@ -1,0 +1,39 @@
+ANIMATE 2D CHARACTERS in Unity - YouTube
+https://www.youtube.com/watch?v=eXIuizGzY2A
+Unity 2D Animation - YouTube
+https://www.youtube.com/playlist?list=PLqqkaa8OrxkEX3ZeGtmh4Ac2qLc7yW8zz
+
+APRENDA UNITY 2D - Jogo de Plataforma Unity [2020] - YouTube
+https://www.youtube.com/playlist?list=PLPZbINlObmimEt_zKx-95D6V5thl4vzI3
+
+Luzes 2D com URP
+https://www.youtube.com/watch?v=ohfj9zX-KYE
+2D Lights and Shadows in Unity 2019! (Tutorial) - YouTube
+https://www.youtube.com/watch?v=F5l8vP90EvU
+
+5 tipos de movi
+https://www.youtube.com/watch?v=MnPgEffTrss&list=TLPQMjIwNDIwMjOZnBgTuLBv_w&index=2
+
+playlist criando jogo de plantaforma 2D
+https://www.youtube.com/playlist?list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4
+
+Tela de pause
+https://www.youtube.com/watch?v=LJiohLkh2Y8
+
+Unity 2D Platformer for Complete Beginners - YouTube
+https://www.youtube.com/playlist?list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV
+
+#16 - TUTORIAL UNITY 2D [2023]: Como coletar itens? - YouTube
+https://www.youtube.com/watch?v=oJs_tGOAoMQ
+
+Sistema de tiro - Tutorial Unity 2D
+https://www.youtube.com/watch?v=IQ1Kzzh0eQM
+
+Como criar um MENU | Tutorial Unity
+https://www.youtube.com/watch?v=Ba4T6stEJtg
+
+
+
+https://docs.unity3d.com/Packages/com.unity.render-pipelines.lightweight@6.7/manual/2d-index.html
+
+https://assetstore.unity.com/packages/essentials/tutorial-projects/lost-crypt-2d-sample-project-158673
