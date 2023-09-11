@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemyAI : MonoBehaviour
 {
     private Animator animator;
-    private int energia;
+    [SerializeField] private int energia;
 
     // Start is called before the first frame update
     void Start()
